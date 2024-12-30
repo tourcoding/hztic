@@ -1,0 +1,43 @@
+[tool.poetry]
+name = "hztic"
+version = "0.1.0"
+description = "System Docking"
+authors = ["rhys.meng <rhys.meng@outlook.com>"]
+license = "GPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+flask = "^3.1.0"
+jieba = "^0.42.1"
+apscheduler = "^3.11.0"
+rapidfuzz = "^3.10.1"
+pandas = "^2.2.3"
+python-calamine = "^0.3.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+main = "hztic.main:main"
+
+
+[[tool.poetry.source]]
+name = "aliyun"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+priority = "primary"
+
+
+[[tool.poetry.source]]
+name = "tencent"
+url = "https://mirrors.cloud.tencent.com/pypi/simple/"
+priority = "primary"
+
+
+[[tool.poetry.source]]
+name = "tsinghua"
+url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/"
+priority = "primary"

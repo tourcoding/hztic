@@ -1,5 +1,5 @@
 import requests
-from hztic.utils.HesiTokenManger import HesiTokenManager
+from hztic.utils.HesiTokenManager import HesiTokenManager
 
 class StaffService:
     """员工列表服务"""

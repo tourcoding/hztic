@@ -1,5 +1,5 @@
 import requests
-from hztic.utils.HesiTokenManger import HesiTokenManager
+from hztic.utils.HesiTokenManager import HesiTokenManager
 
 class SelfBuiltApp:
     """自建应用接口"""

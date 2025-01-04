@@ -1,3 +1,3 @@
-from .HesiTokenManger import HesiTokenManager
+from .HesiTokenManager import HesiTokenManager
 
 __all__ = ["HesiTokenManager"]

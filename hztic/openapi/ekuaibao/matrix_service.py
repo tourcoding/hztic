@@ -1,5 +1,5 @@
 import requests
-from hztic.utils.HesiTokenManger import HesiTokenManager
+from hztic.utils.HesiTokenManager import HesiTokenManager
 
 class MatrixService:
     """企业审批矩阵服务"""

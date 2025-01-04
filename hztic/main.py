@@ -1,21 +1,18 @@
 import json
-from hztic.config import HesiAPIConfig
-from hztic.openapi import Accounts, StaffService, MatrixService, SelfBuiltApp
+from hztic.config import HesiAPIConfig, BeisenAPIConfig
+from hztic.openapi import Accounts, StaffService, MatrixService, SelfBuiltApp, OrganizationService
 
 def main():
     """API初始化"""
-    
-    config = HesiAPIConfig(
-        app_key="ed22508e-613b-4e83-84eb-8d48718ac3d2",
-        app_security="969aafca-6af5-4de4-a88e-e8f73e7892ad",
-        corp_id="ID01EjGAFgd2N1"
-    )
-
-    staff_service = StaffService(config)
-    matrix_service = MatrixService(config)
-    self_built_app = SelfBuiltApp(config)
+    staff_service = StaffService(HesiAPIConfig)
+    matrix_service = MatrixService(HesiAPIConfig)
+    self_built_app = SelfBuiltApp(HesiAPIConfig)
+    organization_service = OrganizationService(BeisenAPIConfig)
 
     """调用示例"""
+    # 8.
+    organization = organization_service.get_organization()
+    print(organization)
     
     # 1:获取员工列表
     try:
@@ -37,7 +34,7 @@ def main():
         print(f"Approval Matrix: {approval_matrix}")
     except Exception as e:
         print(f"Error: {e}")
-        
+
     # 3:获取自建应用列表
     try:
         platform_list = self_built_app.get_self_built_app_list(start=0, count=10)
@@ -74,7 +71,7 @@ def main():
         print(f"Error: {e}")
         
     # 7.下载所有开户网点信息
-    accounts = Accounts(config)
+    accounts = Accounts(HesiAPIConfig)
     try:
         print("下载所有开户网点信息...")
         file_path = accounts.get_branch_file()

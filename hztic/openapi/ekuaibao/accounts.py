@@ -1,5 +1,5 @@
 import os,time,requests
-from hztic.utils.HesiTokenManger import HesiTokenManager
+from hztic.utils.HesiTokenManager import HesiTokenManager
 from hztic.config import download_dir
 
 class Accounts:

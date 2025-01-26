@@ -11,22 +11,18 @@ BeisenAPIConfig= {
     "app_secret": "04DBD97693D143FCBF64F39457081DC3635D5CA0BF844370A48D6577F0AA3B7D"
 }
 
-"""数据库配置"""
-DB_CONFIG = {
-    "host": "localhost",
-    "port": 3306,
-    "user": "root",
-    "password": "123456",
-    "database": "test",
-    "charset": "utf8mb4"
-}
-
 """合思token缓存文件"""
-hesi_token_cache_file = r"hztic/config/cache/hesi_token_cache.json"
+hesi_token_cache_file = r"hztic/data/cache/hesi_token_cache.json"
 
 """北森token缓存文件"""
 beisen_base_url = "https://openapi.italent.cn"
-beisen_token_cache_file = r"hztic/config/cache/beisen_token_cache.json"
+beisen_token_cache_file = r"hztic/data/cache/beisen_token_cache.json"
 
 """下载文件存储路径"""
-download_dir = r"hztic/config/download/"
+download_dir = r"hztic/data/download/"
+
+"""数据库配置"""
+DB_DIR = r"hztic/data/db/app.db"
+
+"""日志文件存储路径"""
+LOG_DIR = r"hztic/data/logs"

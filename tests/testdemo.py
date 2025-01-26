@@ -1,6 +1,6 @@
 import json
 from hztic.config import APIConfig, DB_CONFIG
-from hztic.openapi import Accounts, StaffService, MatrixService, SelfBuiltApp
+from hztic.services import Accounts, StaffService, MatrixService, SelfBuiltApp
 
 def main():
     """API初始化"""

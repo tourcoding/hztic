@@ -1,1 +1,0 @@
-cd ../ && poetry export --output requirements.txt

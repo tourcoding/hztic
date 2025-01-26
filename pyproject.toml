@@ -1,20 +1,19 @@
 [tool.poetry]
 name = "hztic"
 version = "0.1.0"
-description = "System Docking"
+description = "开放平台同步工具"
 authors = ["rhys.meng <rhys.meng@outlook.com>"]
 license = "GPL"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-requests = "^2.32.3"
 flask = "^3.1.0"
 jieba = "^0.42.1"
 apscheduler = "^3.11.0"
-rapidfuzz = "^3.10.1"
 pandas = "^2.2.3"
 python-calamine = "^0.3.1"
+sqlalchemy = "^2.0.37"
 
 
 [build-system]

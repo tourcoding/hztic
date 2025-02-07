@@ -23,14 +23,8 @@ class BeisenOpenAPI:
         self.rate_limiter = BeisenRateLimiter(requests_per_second=100, requests_per_minute=3000)
 
     def _make_request(self, endpoint: str, method: str = "GET", **kwargs) -> Optional[Dict]:
-        """
-        北森开放平台API的通用请求方法包装器。
-
-        :param endpoint: API端点。
-        :param method: HTTP请求方法, 默认为GET。
-        :param kwargs: 其他请求参数。
-        :return: 响应中的JSON数据, 如果请求失败则返回None。
-        """
+        """北森开放平台API的通用请求方法包装器"""
+        
         url = f"{self.base_url}{endpoint}"
         headers = kwargs.get("headers", {})
         headers.update({
@@ -51,15 +45,7 @@ class BeisenOpenAPI:
             raise Exception(f"Failed to decode JSON: {e}. Response content: {response.text}")
 
     def _fetch_data_in_segments(self, start_time, end_time, incremental: bool, fetch_func):
-        """
-        分段获取数据。
-
-        :param start_time: 数据检索的开始时间。
-        :param end_time: 数据检索的结束时间。
-        :param incremental: 是否增量获取数据。
-        :param fetch_func: 数据获取函数。
-        :return: 获取到的数据列表。
-        """
+        """分段获取数据"""
         if not incremental and (end_time - start_time).days > DEFAULT_TIME_WINDOW_DAYS:
             all_data = []
             segment_start = start_time
@@ -75,14 +61,7 @@ class BeisenOpenAPI:
             return fetch_func(start_time, end_time)
 
     def _scroll_fetch(self, endpoint: str, payload: Dict, extract_func) -> List[Any]:
-        """
-        分页查询的通用方法。
-
-        :param endpoint: API端点。
-        :param payload: 请求负载。
-        :param extract_func: 数据提取函数。
-        :return: 提取的数据列表。
-        """
+        """分页查询的通用方法。"""
         all_data = []
         scroll_id = None
 
@@ -108,24 +87,11 @@ class BeisenOpenAPI:
         return all_data
 
     def get_organizations_within_time_range(self, start_time, end_time, incremental: bool = False) -> List[Organization]:
-        """
-        Fetch organizational unit information within the specified time range.
-
-        :param start_time: Start time of the time range.
-        :param end_time: End time of the time range.
-        :param incremental: Whether to fetch data incrementally, defaults to False.
-        :return: List of extracted organizational unit information.
-        """
+        """根据指定的时间范围获取组织单元信息"""
         return self._fetch_data_in_segments(start_time, end_time, incremental, self.get_organization_by_time_window)
 
     def get_organization_by_time_window(self, start_time, end_time) -> List[Organization]:
-        """
-        Fetch organizational unit information based on time window.
-
-        :param start_time: Start time of the time window.
-        :param end_time: End time of the time window.
-        :return: List of extracted organizational unit information.
-        """
+        """根据时间窗口获取组织单元信息"""
         if (end_time - start_time).days > DEFAULT_TIME_WINDOW_DAYS:
             raise ValueError(f"Time window exceeds {DEFAULT_TIME_WINDOW_DAYS} days. Please split the query into smaller segments.")
 
@@ -144,13 +110,7 @@ class BeisenOpenAPI:
         return self._scroll_fetch("/TenantBaseExternal/api/v5/Organization/GetByTimeWindow", payload, self._extract_organizations)
 
     def _extract_organizations(self, org_data_list: List[Dict]) -> List[Organization]:
-        """
-        Extract organization information from response data.
-
-        Iterate through the org_data_list, creating an Organization object for each dictionary.
-        Use the get method to retrieve values from the dictionary to avoid exceptions when keys are missing.
-        For nested attributes, use chained get methods with the or operator to provide a default value of {} and avoid KeyError.
-        """
+        """从响应数据中提取组织信息"""
         return [
             Organization(
                 org_id=org_data.get("oId"),
@@ -175,7 +135,7 @@ class BeisenOpenAPI:
         payload = {
             "empStatus": [2, 3, 6, 8],             # 1:待入职，2:试用，3:正式，4:调出，5:待调入，6:退休，8:离职，12:非正式
             "employType": [0,1,2],                 # 0:正式员工，1:外部人员，2:实习员工  
-            "serviceType": [0],                 # 0:主职，1:兼职
+            "serviceType": [0],                    # 0:主职，1:兼职
             "timeWindowQueryType": 1,
             "startTime": start_time.isoformat(),
             "stopTime": end_time.isoformat(),
@@ -248,13 +208,7 @@ class BeisenOpenAPI:
         return self._fetch_data_in_segments(start_time, end_time, incremental, self.get_employment_form_by_time_window)
     
     def get_employment_form_by_time_window(self, start_time, end_time) -> List[EmploymentForm]:
-        """
-        Fetch employment form information based on time window.
-
-        :param start_time: Start time of the time window.
-        :param end_time: End time of the time window.
-        :return: List of extracted employment form information.
-        """
+        """根据时间窗口获取用工形式信息"""
         if (end_time - start_time).days > DEFAULT_TIME_WINDOW_DAYS:
             raise ValueError(f"Time window exceeds {DEFAULT_TIME_WINDOW_DAYS} days. Please split the query into smaller segments.")
 
@@ -271,12 +225,7 @@ class BeisenOpenAPI:
         return self._scroll_fetch("/TenantBaseExternal/api/v5/EmploymentForm/GetByTimeWindow", payload, self._extract_employment_form)
 
     def _extract_employment_form(self, employment_form_data_list: List[Dict]) -> List[EmploymentForm]:
-        """
-        Extract employment form information from response data.
-
-        :param employment_form_data_list: List containing employment form data.
-        :return: List of extracted employment form information.
-        """
+        """从响应数据中提取用工形式信息"""
         return [
             EmploymentForm(
                 name=employment_form_data.get("name"),
@@ -287,24 +236,12 @@ class BeisenOpenAPI:
         
         
     def get_corporation_within_time_range(self, start_time, end_time, incremental: bool = False) -> List[Corporation]:
-        """
-        Fetch company information based on time range.
-
-        :param start_time: Start time of the time range.
-        :param end_time: End time of the time range.
-        :param incremental: Whether to fetch data incrementally, defaults to False.
-        :return: List of extracted company information.
-        """
+        """根据指定的时间范围获取公司主体信息"""
         return self._fetch_data_in_segments(start_time, end_time, incremental, self.get_corporation_by_time_window)
     
     def get_corporation_by_time_window(self, start_time, end_time) -> List[Corporation]:
-        """
-        Fetch company information based on time window.
+        """根据时间窗口获取公司主体信息"""
 
-        :param start_time: Start time of the time window.
-        :param end_time: End time of the time window.
-        :return: List of extracted company information.
-        """
         if (end_time - start_time).days > DEFAULT_TIME_WINDOW_DAYS:
             raise ValueError(f"Time window exceeds {DEFAULT_TIME_WINDOW_DAYS} days. Please split the query into smaller segments.")
 
@@ -323,12 +260,7 @@ class BeisenOpenAPI:
 
 
     def _extract_corporation(self, corporation_data_list: List[Dict]) -> List[Corporation]:
-        """
-        Extract company information from response data.
-
-        :param corporation_data_list: List containing company data.
-        :return: List of extracted company information.
-        """
+        """从响应数据中提取公司主体信息"""
         return [
             Corporation(
                 corp_id=(corp_data.get("fields") or {}).get("OId"),

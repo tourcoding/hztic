@@ -32,20 +32,22 @@ class HesiOpenApi:
 
         if add_staff:
             payload["addStaff"] = add_staff
+            payload["delStaff"] = []
         if del_staff:
             payload["delStaff"] = del_staff
+            payload["addStaff"] = []
 
         try:
             response = requests.post(url, params=params, headers=headers, json=payload)
             if response.status_code == 200:
                 result = response.json()
                 if result.get("value") is True:
-                    self.logger.debug("API 调用成功")
+                    self.logger.debug("员工激活成功")
                     self.logger.debug(f"API 返回结果: {response.text}")
                     return True
                 else:
-                    self.logger.warning("API 调用成功,但返回值为 False")
-                    return False
+                    self.logger.debug("员工之前已经被授权,跳过执行...")
+                    return True
             elif response.status_code == 400:
                 error_message = response.json().get("message", "未知错误")
                 self.logger.error(f"API 调用失败,状态码: 400,错误信息: {error_message},排查建议：请确认 type(员工标识类型)是否为固定值。")
@@ -71,7 +73,7 @@ class HesiOpenApi:
         :param staff_by: 员工标识类型.默认为 "code"。 
         :return: 如果 API 调用成功.则返回 True; 否则返回 False。
         """
-        url = f"{self.base_url}/api/openapi/v1.1/roledefs/{role_id}/staffs"
+        url = f"{self.base_url}/api/openapi/v1.1/roledefs/${role_id}/staffs"
         params = {
             "accessToken": self.access_token,
             "staffBy": staff_by
@@ -119,7 +121,7 @@ class HesiOpenApi:
         :param role_id: 角色ID。
         :return: 如果 API 调用成功，则返回 True; 否则返回 False。
         """
-        url = f"{self.base_url}/api/openapi/v1.1/roledefs/{role_id}/staffs"
+        url = f"{self.base_url}/api/openapi/v1.1/roledefs/${role_id}/staffs"
         params = {
             "accessToken": self.access_token
         }

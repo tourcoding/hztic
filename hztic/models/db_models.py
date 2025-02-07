@@ -1,4 +1,4 @@
-from sqlalchemy import Column, String, Integer
+from sqlalchemy import Column, String, Integer, Boolean
 from sqlalchemy.orm import declarative_base
 
 Base = declarative_base()
@@ -70,3 +70,10 @@ class EmploymentForm(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String(50), nullable=False)                              # 用工形式
     object_id = Column(String(50), nullable=False, unique=True)            # 用工形式ID
+    
+
+class Whitelist(Base):
+    __tablename__ = "whitelist"  # 表名
+    id = Column(Integer, primary_key=True, index=True)  # 主键
+    staff_id = Column(String, unique=True, index=True)  # 员工工号，唯一
+    is_deleted = Column(Boolean, default=False)  # 软删除标记，默认为 False

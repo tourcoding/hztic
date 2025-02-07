@@ -5,14 +5,9 @@ import os
 from hztic.utils.logger import Logger
 
 class DatabaseManager:
-    """
-    Database Manager Class
-    
-    Responsible for table schema synchronization, data initialization, and data persistence.
-    """
+    """数据库管理器，用于管理数据库连接和数据操作。"""
 
     def __init__(self):
-        # 数据库连接
         self.logger = Logger(name=self.__class__.__name__).get_logger()
         self.BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         self.DATABASE_PATH = os.path.join(self.BASE_DIR, "data", "db", "app.db")
@@ -20,17 +15,16 @@ class DatabaseManager:
         self.engine = create_engine(self.DATABASE_URL)
         self.SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=self.engine)
         self.logger.debug("DB connection init done. URL: %s", self.DATABASE_URL)
-        self.sync_table_structure()  # 初始化时自动同步表结构
+        self.sync_table_structure()
 
     def sync_table_structure(self):
-        """同步表结构：根据模型定义自动修改数据库表"""
+        """同步表结构"""
         inspector = inspect(self.engine)
         existing_tables = inspector.get_table_names()
 
-        with self.engine.connect() as conn:  # 复用同一个连接
+        with self.engine.connect() as conn:
             for table_name, table_class in Base.metadata.tables.items():
                 if table_name not in existing_tables:
-                    # 如果表不存在，则创建表
                     self.logger.info("Table %s not found, creating...", table_name)
                     table_class.create(conn)
                     self.logger.info("Table %s created successfully.", table_name)
@@ -41,7 +35,6 @@ class DatabaseManager:
                         if column.name not in existing_columns:
                             self.logger.info("Table %s is missing column %s, adding...", table_name, column.name)
                             try:
-                                # 使用 SQLAlchemy 的 DDL 或 AddColumn 更安全
                                 add_column_ddl = DDL(
                                     f"ALTER TABLE {table_name} ADD COLUMN {column.name} {column.type}"
                                 )
@@ -109,13 +102,11 @@ class DatabaseManager:
         """保存员工数据到数据库（如果已存在则更新）"""
         session = self.SessionLocal()
         try:
-            # 查询是否已存在
             existing_emp = session.query(Employee).filter(
                 Employee.user_id == emp.user_id
             ).first()
             if existing_emp:
-                # 更新数据
-                self.logger.debug("Field %s exists, updating...", emp.user_id)
+                self.logger.debug("Field user_id: %s exists, updating...", emp.user_id)
                 existing_emp.id_number = emp.id_number
                 existing_emp.job_number = emp.job_number
                 existing_emp.mobile_phone = emp.mobile_phone
@@ -129,15 +120,14 @@ class DatabaseManager:
                 existing_emp.service_type = emp.service_type
                 existing_emp.employment_form = emp.employment_form
             else:
-                # 插入新数据
-                self.logger.debug("Field %s not found, inserting...", emp.user_id)
+                self.logger.debug("Field user_id: %s not found, inserting...", emp.user_id)
                 db_emp = Employee(**emp.__dict__)
                 session.add(db_emp)
             session.commit()
-            self.logger.debug("Save %s success.", emp.user_id)
+            self.logger.debug("Save user_id: %s success.", emp.user_id)
         except Exception as e:
             session.rollback()
-            self.logger.error("Save %s failed: %s", emp.user_id, e)
+            self.logger.error("Save user_id: %s failed: %s", emp.user_id, e)
             raise e
         finally:
             session.close()
@@ -146,15 +136,12 @@ class DatabaseManager:
         """保存职级信息到数据库（如果已存在则更新）"""
         session = self.SessionLocal()
         try:
-            # 查询是否已存在
             existing_job_level = session.query(JobLevel).filter(
                 JobLevel.name == job_level.name
             ).first()
             if existing_job_level:
-                # 更新数据
                 existing_job_level.object_id = job_level.object_id
             else:
-                # 插入新数据
                 db_job_level = JobLevel(**job_level.__dict__)
                 session.add(db_job_level)
             session.commit()
@@ -174,10 +161,8 @@ class DatabaseManager:
                 EmploymentForm.name == employment_form.name
             ).first()
             if existing_employment_form:
-                # 更新数据
                 existing_employment_form.object_id = employment_form.object_id
             else:
-                # 插入新数据
                 db_employment_form = EmploymentForm(**employment_form.__dict__)
                 session.add(db_employment_form)
             session.commit()
@@ -192,12 +177,10 @@ class DatabaseManager:
         """保存员工数据到数据库（如果已存在则更新）"""
         session = self.SessionLocal()
         try:
-            # 查询是否已存在
             existing_corp = session.query(Corporation).filter(
                 Corporation.corp_id == corp.corp_id
             ).first()
             if existing_corp:
-                # 更新数据
                 existing_corp.corp_name = corp.corp_name
                 existing_corp.extdengjidizhi = corp.extdengjidizhi
                 existing_corp.extdianhua = corp.extdianhua
@@ -205,12 +188,130 @@ class DatabaseManager:
                 existing_corp.extyinhangzhanghao = corp.extyinhangzhanghao
                 existing_corp.extzuzhidaima = corp.extzuzhidaima
             else:
-                # 插入新数据
                 db_corp = Corporation(**corp.__dict__)
                 session.add(db_corp)
             session.commit()
         except Exception as e:
             session.rollback()
+            raise e
+        finally:
+            session.close()
+            
+    def get_organization_staff_mapping(self, path_type="name"):
+        """
+        获取组织部门与员工的映射关系。
+
+        :param path_type: 路径类型，可选值为 "name"（名称）、"code"（编码）、"id"(ID),默认为 "name"
+        :return: 返回组织部门与员工的映射关系列表
+        """
+        session = self.SessionLocal()
+        try:
+            # 查询 organizations 表中的 person_in_charge 和 tree_path_text
+            org_data = session.query(
+                Organization.person_in_charge,
+                Organization.tree_path_text
+            ).all()
+
+            result = []
+            for person_in_charge, tree_path_text in org_data:
+                if not person_in_charge or not tree_path_text:
+                    continue
+
+                # 根据 person_in_charge 匹配 employees 表中的 user_id，获取 job_number
+                employee = session.query(Employee.job_number).filter(
+                    Employee.user_id == person_in_charge
+                ).first()
+
+                if not employee:
+                    continue
+
+                # 解析 tree_path_text 为路径列表
+                path_list = tree_path_text.split("/")
+
+                # 根据 path_type 确定路径类型
+                if path_type == "code":
+                    # 假设 tree_path_text 是编码路径，直接使用
+                    path_list = tree_path_text.split("/")
+                elif path_type == "id":
+                    # 假设 tree_path_text 是 ID 路径，直接使用
+                    path_list = tree_path_text.split("/")
+                else:
+                    # 默认使用名称路径
+                    path_list = tree_path_text.split("/")
+
+                # 构建返回数据结构
+                mapping = {
+                    "pathType": path_type,
+                    "path": path_list,
+                    "staffs": [employee.job_number]
+                }
+
+                # 检查是否已存在相同路径的映射，避免重复
+                existing_mapping = next((item for item in result if item["path"] == path_list), None)
+                if existing_mapping:
+                    existing_mapping["staffs"].append(employee.job_number)
+                else:
+                    result.append(mapping)
+
+            return result
+
+        except Exception as e:
+            self.logger.error("获取组织部门与员工映射关系失败: %s", e)
+            raise e
+        finally:
+            session.close()
+        
+        
+    def get_manager_org_path(self):
+        """
+        获取经理级以上员工的工号及部门路径信息
+        :return: 返回包含经理级以上员工的部门路径信息列表，格式为：
+            [
+                {
+                    "pathType": "name",
+                    "path": ["总公司", "部门A", "子部门B"],
+                    "staffs": ["1001", "1002"]
+                },
+                ...
+            ]
+        """
+        session = self.SessionLocal()
+        try:
+            # 查询经理级以上员工
+            managers = session.query(
+                Employee.job_number,
+                Employee.oId_department_id
+            ).filter(
+                Employee.employee_status.in_(["2", "3"])
+                
+            ).filter(
+                Employee.oId_job_level_text.in_(["经理级", "总经理级"])
+            ).all()
+            result = []
+            for job_number, department_id in managers:
+                if not department_id:
+                    continue
+                # 查询对应的部门路径
+                org = session.query(Organization.tree_path_text).filter(
+                    Organization.org_id == department_id
+                ).first()
+                if not org or not org.tree_path_text:
+                    continue
+                # 解析路径
+                path_list = org.tree_path_text.split("/")
+                # 查找是否已有相同路径的记录
+                existing = next((item for item in result if item["path"] == path_list), None)
+                if existing:
+                    existing["staffs"].append(job_number)
+                else:
+                    result.append({
+                        "pathType": "name",
+                        "path": path_list,
+                        "staffs": [job_number]
+                    })
+            return result
+        except Exception as e:
+            self.logger.error("获取经理级员工部门路径失败: %s", e)
             raise e
         finally:
             session.close()

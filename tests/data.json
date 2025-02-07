@@ -1,686 +1,76 @@
-[{"organization_id": 1200598, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503249, "person_in_charge_text": "殷英(jasmine.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/人事绩效/绩效组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200645, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/饮品车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200613, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）/营运办", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200587, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/总经办", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200600, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503452, "person_in_charge_text": "张向宁(bunny.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部/核算组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200617, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）/安全部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200623, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/制冷组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200642, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/熟制车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200654, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503025, "person_in_charge_text": "周丽丽(lrene.zhou@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/品牌办（麻辣盛艳）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200603, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503325, "person_in_charge_text": "宛继文(gerry.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/营建办", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200624, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/报修客服组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200634, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/后勤组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 0, "name": None, "person_in_charge_id": None, "person_in_charge_text": None, "tree_path": "江苏汉资餐饮管理有限公司/默认部门", "custom_property": None
-},
-{"organization_id": 1200588, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200589, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506291, "person_in_charge_text": "倪明(mike.ni@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200638, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/职工餐厅", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200615, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 613664940, "person_in_charge_text": "郑明浩(alex.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）/IT部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200608, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503110, "person_in_charge_text": "倪红菊(linda.ni@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/计划部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200605, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503325, "person_in_charge_text": "宛继文(gerry.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200635, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503320, "person_in_charge_text": "张强强(given.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/雨花物流中心", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200641, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/内包车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200602, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503363, "person_in_charge_text": "胡云(emily.hu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部/成本组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200611, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200643, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/调理车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200597, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503249, "person_in_charge_text": "殷英(jasmine.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/招聘组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200593, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200637, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/加工办", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200590, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/开发部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200639, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/净菜车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200591, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503325, "person_in_charge_text": "宛继文(gerry.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200649, "name": None, "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店", "custom_property": None
-},
-{"organization_id": 1200633, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/物流办", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200612, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200622, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/维修组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200650, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/品牌办（晋家门）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200621, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/设备技术组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 900609792, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200596, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/行政组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200604, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503389, "person_in_charge_text": "张宇翔(danny.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/项目部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200653, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200601, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502985, "person_in_charge_text": "莫燕群(monika.mo@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部/税务组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1362634, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507260, "person_in_charge_text": "方成(alfie.fang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1362639, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506047, "person_in_charge_text": "张磊(vic.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200674, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614503421, "person_in_charge_text": "陈娟(chenjuan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味合肥蜀山国购店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200698, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506200, "person_in_charge_text": "杜排(sandy.du@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京江宁龙湖店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200719, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614502543, "person_in_charge_text": "张飞(zhangfei@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京喜玛拉雅店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200741, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506858, "person_in_charge_text": "金银双(helen.jin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味镇江吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200704, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506978, "person_in_charge_text": "张艳(fairy.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京六合欢乐港店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200702, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506673, "person_in_charge_text": "康婧(kimmy.kang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京江宁文鼎店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200710, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614503261, "person_in_charge_text": "胡恒奎(huhengkui@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味南京浦口虹悦城店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200752, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614506862, "person_in_charge_text": "惠闯(hawk.hui@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥中环城店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200699, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614502869, "person_in_charge_text": "王草草(wangcaocao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京江宁南方时代店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200746, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614506045, "person_in_charge_text": "万成(wancheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥巢湖万达店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200673, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614507240, "person_in_charge_text": "田漫漫(ayel.tian@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味合肥漫乐城店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200678, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506830, "person_in_charge_text": "侯军豪(houjunhao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安楚州万达店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200682, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507120, "person_in_charge_text": "陈倩(chenqian@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安时代广场店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200718, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507011, "person_in_charge_text": "董浩(donghao.dong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1296459, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1340548, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506310, "person_in_charge_text": "陈肖俊(meetyou.chen@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1340549, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507135, "person_in_charge_text": "陈佳林(chenjialin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京江北金象城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200683, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506339, "person_in_charge_text": "赵成芳(lydia.zhao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安万达店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1362637, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505881, "person_in_charge_text": "张伟(wee.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1296457, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200636, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200681, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506228, "person_in_charge_text": "殷德雨(rain.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味淮安涟水吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200751, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614502947, "person_in_charge_text": "尚芷若(shangzhiruo@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥瑶海万达店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200769, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614505612, "person_in_charge_text": "袁旭(yuanxu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋南京喜玛拉雅店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200648, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506139, "person_in_charge_text": "张世谦(stone.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/培训部（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1297218, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/水产车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200693, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506672, "person_in_charge_text": "朱付礼(kirin.zhu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京河西龙湖店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1303422, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506841, "person_in_charge_text": "何林(hill.he@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/出品部（麻辣盛艳）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1362636, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506223, "person_in_charge_text": "吴宋义(rayen.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200774, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506283, "person_in_charge_text": "谢玲玲(nancy.xie@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京雨花客厅店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200764, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506387, "person_in_charge_text": "李海荣(lolly.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋南京溧水海乐城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1362648, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506745, "person_in_charge_text": "张良(jeff.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200714, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507055, "person_in_charge_text": "谢婷婷(daisy.xie@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味南京秦淮龙蟠汇店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200694, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507194, "person_in_charge_text": "姬顺字(cary.ji@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京建邺万达店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200721, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614503277, "person_in_charge_text": "候波文(houbowen@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京新城市店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200709, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507256, "person_in_charge_text": "赵云云(alina.zhao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味南京浦口弘阳店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1362647, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506746, "person_in_charge_text": "高建军(jason.gao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200672, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614505992, "person_in_charge_text": "王娟(wangjuan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味合肥庐阳万象汇店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200725, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507527, "person_in_charge_text": "王婷婷(angela.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京玄武森林摩尔店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200759, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506196, "person_in_charge_text": "彭京磊(sauron.peng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/章梅林区域/晋南京建邺万达店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1295355, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503249, "person_in_charge_text": "殷英(jasmine.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/人事绩效", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200728, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507526, "person_in_charge_text": "陈阿敏(chenamin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京雨花客厅店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200700, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506202, "person_in_charge_text": "王中宝(ryan.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味南京江宁砂之船店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200770, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507036, "person_in_charge_text": "孟繁博(devil.meng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京新城市店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200646, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/品牌办（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200730, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506043, "person_in_charge_text": "王阿南(wang.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味南京雨花吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200595, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502920, "person_in_charge_text": "许莉婷(sue.xu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/人事绩效/人事共享组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1362638, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505656, "person_in_charge_text": "刘兰伟(yannis.liu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200720, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507221, "person_in_charge_text": "王学超(bowen.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京仙林金鹰店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1296460, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200684, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507051, "person_in_charge_text": "龚彩云(daria.gong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味淮安盱眙苏宁店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200735, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614502861, "person_in_charge_text": "王海清(wanghaiqing@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味芜湖镜湖八佰伴店（闭店）", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1362634, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507260, "person_in_charge_text": "方成(alfie.fang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1362639, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506047, "person_in_charge_text": "张磊(vic.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200697, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506056, "person_in_charge_text": "许云虎(tiger.xu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京江宁金鹰店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200772, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507049, "person_in_charge_text": "黄成凤(dawn.huang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京玄武常发店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1535344, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/验收组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1362637, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505881, "person_in_charge_text": "张伟(wee.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200627, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/市调组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200609, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200610, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200644, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/调料车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200775, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507265, "person_in_charge_text": "张婷婷(ada.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京雨花吾悦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1536533, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506139, "person_in_charge_text": "张世谦(stone.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张世谦区域", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200750, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614502946, "person_in_charge_text": "邵明庆(shaomingqing@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥瑶海龙湖店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1362636, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506223, "person_in_charge_text": "吴宋义(rayen.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200626, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/寻源组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200631, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/实验室", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1362648, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506745, "person_in_charge_text": "张良(jeff.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200629, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/供应商管理组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200628, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/定价组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200659, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614506270, "person_in_charge_text": "王星宇(oliver.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心/库存组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1362647, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506746, "person_in_charge_text": "高建军(jason.gao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200756, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614502952, "person_in_charge_text": "阮玉强(ruanyuqiang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京鼓楼大观天地店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200640, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/面点车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200592, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1362638, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505656, "person_in_charge_text": "刘兰伟(yannis.liu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200779, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614502496, "person_in_charge_text": "张晓悦(zhangxiaoyue@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋扬州宝应吾悦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200658, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614506270, "person_in_charge_text": "王星宇(oliver.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心/出库1组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200630, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/品控组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1282067, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/品控办", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200719, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614502543, "person_in_charge_text": "张飞(zhangfei@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京喜玛拉雅店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200741, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506858, "person_in_charge_text": "金银双(helen.jin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味镇江吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200704, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506978, "person_in_charge_text": "张艳(fairy.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京六合欢乐港店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200702, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506673, "person_in_charge_text": "康婧(kimmy.kang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京江宁文鼎店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200761, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507098, "person_in_charge_text": "陈学帅(chenxueshuai@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京江宁太阳城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200697, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506056, "person_in_charge_text": "许云虎(tiger.xu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京江宁金鹰店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200699, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614502869, "person_in_charge_text": "王草草(wangcaocao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京江宁南方时代店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200673, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614507240, "person_in_charge_text": "田漫漫(ayel.tian@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味合肥漫乐城店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200678, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506830, "person_in_charge_text": "侯军豪(houjunhao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安楚州万达店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200682, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507120, "person_in_charge_text": "陈倩(chenqian@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安时代广场店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200660, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503320, "person_in_charge_text": "张强强(given.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心/出库2组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1340548, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506310, "person_in_charge_text": "陈肖俊(meetyou.chen@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 0, "name": None, "person_in_charge_id": None, "person_in_charge_text": None, "tree_path": "江苏汉资餐饮管理有限公司/默认部门", "custom_property": None
-},
-{"organization_id": 1200683, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506339, "person_in_charge_text": "赵成芳(lydia.zhao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味淮安万达店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200681, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506228, "person_in_charge_text": "殷德雨(rain.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味淮安涟水吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1691871, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506873, "person_in_charge_text": "吴慧慧(haley.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/市场运营组（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200693, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506672, "person_in_charge_text": "朱付礼(kirin.zhu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京河西龙湖店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200760, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506305, "person_in_charge_text": "尚晓曼(melody.shang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京江宁龙湖店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1425872, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506322, "person_in_charge_text": "耿嫚丽(mary.geng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1669324, "name": "合肥晋家门壹司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614507266, "person_in_charge_text": "曹新尚(abner.cao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥蜀山正大店", "custom_property": "9f99b7da-7711-44f1-bf2b-7bd035561cee"
-},
-{"organization_id": 1200714, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507055, "person_in_charge_text": "谢婷婷(daisy.xie@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味南京秦淮龙蟠汇店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200694, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507194, "person_in_charge_text": "姬顺字(cary.ji@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京建邺万达店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200709, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507256, "person_in_charge_text": "赵云云(alina.zhao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味南京浦口弘阳店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200771, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614503057, "person_in_charge_text": "刘徐(liuxu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京新世纪店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200672, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614505992, "person_in_charge_text": "王娟(wangjuan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味合肥庐阳万象汇店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200725, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507527, "person_in_charge_text": "王婷婷(angela.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京玄武森林摩尔店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200728, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507526, "person_in_charge_text": "陈阿敏(chenamin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京雨花客厅店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200700, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506202, "person_in_charge_text": "王中宝(ryan.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味南京江宁砂之船店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200730, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506043, "person_in_charge_text": "王阿南(wang.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味南京雨花吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200720, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507221, "person_in_charge_text": "王学超(bowen.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味南京仙林金鹰店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200684, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507051, "person_in_charge_text": "龚彩云(daria.gong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味淮安盱眙苏宁店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200653, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200598, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503249, "person_in_charge_text": "殷英(jasmine.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/人事绩效/绩效组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200645, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/饮品车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200613, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）/营运办", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200587, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/总经办", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200787, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614506986, "person_in_charge_text": "李峰妹(eir.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京新城市店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1809322, "name": None, "person_in_charge_id": 614503025, "person_in_charge_text": "周丽丽(lrene.zhou@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域", "custom_property": None
-},
-{"organization_id": 1200789, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614505481, "person_in_charge_text": "张维(zhangwei_h2yq@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京雨花客厅店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200600, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503452, "person_in_charge_text": "张向宁(bunny.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部/核算组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200617, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）/安全部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200623, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/制冷组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200788, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 620448334, "person_in_charge_text": "仇少杰(qiushaojie@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京玄武金鹰店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200642, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/熟制车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200654, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503025, "person_in_charge_text": "周丽丽(lrene.zhou@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/品牌办（麻辣盛艳）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200744, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506559, "person_in_charge_text": "李飘飘(lipiaopiao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋常州天宁吾悦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200603, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503325, "person_in_charge_text": "宛继文(gerry.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/营建办", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1535344, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/验收组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1691860, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 620005027, "person_in_charge_text": "高兴雨(gaoxingyu1@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/市场运营组（晋家门）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200624, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/报修客服组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200784, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614502953, "person_in_charge_text": "荣巧玉(rongqiaoyu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京江宁文鼎店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200657, "name": None, "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店", "custom_property": None
-},
-{"organization_id": 1304286, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/出品部（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1296459, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200660, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503320, "person_in_charge_text": "张强强(given.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心/出库2组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200634, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/后勤组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200588, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200589, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506291, "person_in_charge_text": "倪明(mike.ni@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200754, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614502993, "person_in_charge_text": "孟齐娜(mengqina@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋马鞍山金鹰店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200627, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/市调组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1296457, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200638, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/职工餐厅", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200615, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 613664940, "person_in_charge_text": "郑明浩(alex.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）/IT部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200608, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503110, "person_in_charge_text": "倪红菊(linda.ni@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/计划部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200609, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200610, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200644, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/调料车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200767, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506677, "person_in_charge_text": "张荣(katharine.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京栖霞万达茂店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200636, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200605, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503325, "person_in_charge_text": "宛继文(gerry.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1691871, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506873, "person_in_charge_text": "吴慧慧(haley.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/市场运营组（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200635, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503320, "person_in_charge_text": "张强强(given.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/雨花物流中心", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1629661, "name": "南京盛艳壹司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614507189, "person_in_charge_text": "曾小倩(cengxiaoqian@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京大厂美利店", "custom_property": "5d3d31cb-9b35-47de-9288-062f857c6005"
-},
-{"organization_id": 1200641, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/内包车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200602, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503363, "person_in_charge_text": "胡云(emily.hu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部/成本组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200611, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200643, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/调理车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200648, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506139, "person_in_charge_text": "张世谦(stone.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/培训部（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1297218, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/水产车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1519267, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506279, "person_in_charge_text": "闫旭鹏(nicholas.yan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京秦淮龙蟠汇店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1793328, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506113, "person_in_charge_text": "董有玲(sunshine.dong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/出品部（晋家门）/出品部（晋家门）1", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200597, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503249, "person_in_charge_text": "殷英(jasmine.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/招聘组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200593, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（支持）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1737008, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614507058, "person_in_charge_text": "戴平(daily.dai@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/出品部（花味）/出品（花味组）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200637, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/加工办", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1303422, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506841, "person_in_charge_text": "何林(hill.he@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/出品部（麻辣盛艳）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200778, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507196, "person_in_charge_text": "曹忠浩(caozhonghao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋苏州尹山湖爱琴海店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200590, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/开发部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1719031, "name": "上海晋家门壹司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614507242, "person_in_charge_text": "顾春建(aubrey.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋上海嘉定万达店", "custom_property": "009e94b6-0593-480a-a904-1b98128776a7"
-},
-{"organization_id": 1200626, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/寻源组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200766, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614505463, "person_in_charge_text": "张雪荣(zhangxuerong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京浦口龙湖店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200639, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/净菜车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200591, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503325, "person_in_charge_text": "宛继文(gerry.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200786, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614502510, "person_in_charge_text": "张帅锋(zhangshuaifeng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京同曦店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200649, "name": None, "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店", "custom_property": None
-},
-{"organization_id": 1200633, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/物流办", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200612, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503210, "person_in_charge_text": "李涛(leo.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200790, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614503451, "person_in_charge_text": "蔡辉凡(caihuifan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京中央店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200631, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/实验室", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200777, "name": "上海晋家门餐饮管理有限公司", "person_in_charge_id": 614507242, "person_in_charge_text": "顾春建(aubrey.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋上海中环百联店", "custom_property": "8c822780-f8aa-4826-b460-65008af430c1"
-},
-{"organization_id": 1793329, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503004, "person_in_charge_text": "徐同兵(mark.xu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/出品部（晋家门）/出品部（晋家门）2", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200629, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/供应商管理组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1718639, "name": "南京盛艳贰司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614506579, "person_in_charge_text": "赵丽丽(lily.zhao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京江宁万达店", "custom_property": "7ab5853a-a3d7-4ddc-a866-cc5a253d54ca"
-},
-{"organization_id": 1200628, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614502949, "person_in_charge_text": "张昊(seven.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/采购部/定价组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200659, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614506270, "person_in_charge_text": "王星宇(oliver.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心/库存组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1658451, "name": "合肥盛艳壹司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614506054, "person_in_charge_text": "张然(tom.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻合肥庐阳万象汇店", "custom_property": "79f4ce1d-c9bb-46d3-a26c-29bb68fc154d"
-},
-{"organization_id": 1200622, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/维修组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200650, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/品牌办（晋家门）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200621, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503458, "person_in_charge_text": "吴文华(beck.wu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/设备部/设备技术组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200652, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506139, "person_in_charge_text": "张世谦(stone.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/培训部（晋家门）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1295355, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503249, "person_in_charge_text": "殷英(jasmine.yin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/人事绩效", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200646, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/品牌办（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200640, "name": "南京灿基食品有限公司", "person_in_charge_id": 614503221, "person_in_charge_text": "范仁春(kim.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/面点车间", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1200592, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614505649, "person_in_charge_text": "郑垚(yao.zheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200595, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502920, "person_in_charge_text": "许莉婷(sue.xu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/人事绩效/人事共享组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1740386, "name": "雨花台区文华盛艳餐饮店（个体工商户）", "person_in_charge_id": 619996853, "person_in_charge_text": "许臣郎(xuchenlang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京雨花吾悦店", "custom_property": "a429e1cc-521c-4617-a740-425b907adbd5"
-},
-{"organization_id": 1200596, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/人事行政部/行政组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200658, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614506270, "person_in_charge_text": "王星宇(oliver.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/供应中心/物流部/江宁物流中心/出库1组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1770070, "name": "合肥晋家门贰司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614506681, "person_in_charge_text": "康锦福(kangjinfu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋合肥滨湖方圆荟店", "custom_property": "084efe2b-639a-4d61-af51-b38d54c1d35b"
-},
-{"organization_id": 1200630, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/品控组", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1296460, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200604, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503389, "person_in_charge_text": "张宇翔(danny.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营建部/项目部", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1301610, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503021, "person_in_charge_text": "顾芳(lucy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/出品部（晋家门）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1727000, "name": "江北新区晓雯盛艳餐饮店（个体工商户）", "person_in_charge_id": 614507225, "person_in_charge_text": "范展川(bliss.fan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京江北金象城店", "custom_property": "51c44706-de55-4d97-87a3-2b31a2730f11"
-},
-{"organization_id": 1200601, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502985, "person_in_charge_text": "莫燕群(monika.mo@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/财务部/税务组", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200782, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614506786, "person_in_charge_text": "胡桂娟(huguijuan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京缤润汇店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200765, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506916, "person_in_charge_text": "梁聚鹏(george.liang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京浦口虹悦城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1282067, "name": "宿迁汉资贸易有限公司", "person_in_charge_id": 614503219, "person_in_charge_text": "任辰(klaus.ren@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/品控部/品控办", "custom_property": "bf09e96e-0bdd-4164-9cd7-06cea119e3d1"
-},
-{"organization_id": 1200735, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614502861, "person_in_charge_text": "王海清(wanghaiqing@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味芜湖镜湖八佰伴店（闭店）", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200689, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506389, "person_in_charge_text": "李志维(lizhiwei@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味自助南京鼓楼大观店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200743, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506590, "person_in_charge_text": "李丽(lili_cu08@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋常州金坛吾悦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200787, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614506986, "person_in_charge_text": "李峰妹(eir.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京新城市店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200674, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614503421, "person_in_charge_text": "陈娟(chenjuan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味合肥蜀山国购店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200698, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506200, "person_in_charge_text": "杜排(sandy.du@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京江宁龙湖店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200789, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614505481, "person_in_charge_text": "张维(zhangwei_h2yq@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京雨花客厅店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200710, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614503261, "person_in_charge_text": "胡恒奎(huhengkui@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味南京浦口虹悦城店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200788, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 620448334, "person_in_charge_text": "仇少杰(qiushaojie@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京玄武金鹰店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200752, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614506862, "person_in_charge_text": "惠闯(hawk.hui@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥中环城店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200761, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507098, "person_in_charge_text": "陈学帅(chenxueshuai@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京江宁太阳城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200746, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614506045, "person_in_charge_text": "万成(wancheng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥巢湖万达店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200744, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506559, "person_in_charge_text": "李飘飘(lipiaopiao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋常州天宁吾悦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200772, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507049, "person_in_charge_text": "黄成凤(dawn.huang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京玄武常发店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200712, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506542, "person_in_charge_text": "刘尧杰(liu.liu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味自助南京栖霞金地店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200688, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505900, "person_in_charge_text": "王玉祥(wangyuxiang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味自助南京鼓楼ITC店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200718, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507011, "person_in_charge_text": "董浩(donghao.dong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味南京吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200784, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614502953, "person_in_charge_text": "荣巧玉(rongqiaoyu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京江宁文鼎店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200716, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614503424, "person_in_charge_text": "陈建星(chenjianxing@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味自助南京天悦城店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1340549, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507135, "person_in_charge_text": "陈佳林(chenjialin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京江北金象城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200747, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614502536, "person_in_charge_text": "章佳峰(zhangjiafeng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/章梅林区域/晋合肥华邦银泰城店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200724, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506743, "person_in_charge_text": "裴现奇(jerry.pei@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味自助南京玄武常发店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200754, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614502993, "person_in_charge_text": "孟齐娜(mengqina@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋马鞍山金鹰店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1736925, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614502941, "person_in_charge_text": "师冰涛(shibingtao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味自助南京鼓楼虹桥店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1362646, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 624576799, "person_in_charge_text": "章梅林(zhangmeilin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/章梅林区域", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200677, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614507267, "person_in_charge_text": "纵艳(abby.zong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味自助合肥蜀山正大店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200767, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506677, "person_in_charge_text": "张荣(katharine.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京栖霞万达茂店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200775, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507265, "person_in_charge_text": "张婷婷(ada.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京雨花吾悦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200676, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614503300, "person_in_charge_text": "郭云飞(guoyunfei@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味自助合肥蜀山星达城店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1737009, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506675, "person_in_charge_text": "刘朝红(kerr.liu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/出品部（花味）/出品（花味自助组）", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1997184, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": None, "person_in_charge_text": None, "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/品牌办（麻辣盛艳）/盛艳总部", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200751, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614502947, "person_in_charge_text": "尚芷若(shangzhiruo@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥瑶海万达店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1629661, "name": "南京盛艳壹司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614507189, "person_in_charge_text": "曾小倩(cengxiaoqian@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京大厂美利店", "custom_property": "5d3d31cb-9b35-47de-9288-062f857c6005"
-},
-{"organization_id": 1200717, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506747, "person_in_charge_text": "金艳鸿(jane.jin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助南京同曦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200769, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614505612, "person_in_charge_text": "袁旭(yuanxu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋南京喜玛拉雅店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200707, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614502861, "person_in_charge_text": "王海清(wanghaiqing@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味自助南京大厂慕斯荟店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1953667, "name": "南京灿基食品有限公司", "person_in_charge_id": None, "person_in_charge_text": None, "tree_path": "江苏汉资餐饮管理有限公司/供应中心/加工部/灿基总部", "custom_property": "a821eb03-33da-4f88-969c-085edc605b6f"
-},
-{"organization_id": 1778034, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614502927, "person_in_charge_text": "宋时龙(songshilong1@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味自助南京钟鼎名悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1519267, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506279, "person_in_charge_text": "闫旭鹏(nicholas.yan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京秦淮龙蟠汇店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1793328, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614506113, "person_in_charge_text": "董有玲(sunshine.dong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/出品部（晋家门）/出品部（晋家门）1", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200727, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 617920844, "person_in_charge_text": "沈古洋(shenguyang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味自助南京雨花虹悦城店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200760, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506305, "person_in_charge_text": "尚晓曼(melody.shang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京江宁龙湖店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200750, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 614502946, "person_in_charge_text": "邵明庆(shaomingqing@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥瑶海龙湖店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1928209, "name": "栖霞区冬妮花味餐饮店（个体工商户）", "person_in_charge_id": 614507259, "person_in_charge_text": "郭文娟(alice.guo@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味自助南京九霄梦店", "custom_property": "6add24fb-6ace-4e11-9013-e044fb52c2a8"
-},
-{"organization_id": 1200778, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507196, "person_in_charge_text": "曹忠浩(caozhonghao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋苏州尹山湖爱琴海店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1669324, "name": "合肥晋家门壹司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614507266, "person_in_charge_text": "曹新尚(abner.cao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋合肥蜀山正大店", "custom_property": "9f99b7da-7711-44f1-bf2b-7bd035561cee"
-},
-{"organization_id": 1200708, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506573, "person_in_charge_text": "李娜(lina@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助南京浦口白马店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1740974, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506981, "person_in_charge_text": "孙慧芳(eva.sun@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助常州天宁吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200662, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614503406, "person_in_charge_text": "陈一鸣(chenyiming@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助常州金坛吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200701, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614503454, "person_in_charge_text": "卜陈娟(bochenjuan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味自助南京江宁托乐嘉店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1719031, "name": "上海晋家门壹司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614507242, "person_in_charge_text": "顾春建(aubrey.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋上海嘉定万达店", "custom_property": "009e94b6-0593-480a-a904-1b98128776a7"
-},
-{"organization_id": 1200774, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506283, "person_in_charge_text": "谢玲玲(nancy.xie@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京雨花客厅店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1992652, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506322, "person_in_charge_text": "耿嫚丽(mary.geng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋苏州吴江万宝店（筹备）", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200734, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614506698, "person_in_charge_text": "金日(jinri@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味自助铜陵铜官万达店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200785, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614506209, "person_in_charge_text": "荣明巧(rongmingqiao@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京秦淮龙蟠汇店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200766, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614505463, "person_in_charge_text": "张雪荣(zhangxuerong@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京浦口龙湖店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1987237, "name": "上海喜花味餐饮管理有限公司", "person_in_charge_id": 614506047, "person_in_charge_text": "张磊(vic.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助上海普陀近铁店（筹备）", "custom_property": "000aedeb-a3e5-4fd4-9fe2-0e6c3cef0b3d"
-},
-{"organization_id": 1200786, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614502510, "person_in_charge_text": "张帅锋(zhangshuaifeng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京同曦店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200790, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614503451, "person_in_charge_text": "蔡辉凡(caihuifan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京中央店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200723, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507245, "person_in_charge_text": "邱美玲(arlene.qiu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味自助南京新世纪店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200764, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506387, "person_in_charge_text": "李海荣(lolly.li@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/高建军区域/晋南京溧水海乐城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1997183, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": None, "person_in_charge_text": None, "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/品牌办（晋家门）/南京汉资餐饮总部", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200777, "name": "上海晋家门餐饮管理有限公司", "person_in_charge_id": 614507242, "person_in_charge_text": "顾春建(aubrey.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋上海中环百联店", "custom_property": "8c822780-f8aa-4826-b460-65008af430c1"
-},
-{"organization_id": 1200705, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507250, "person_in_charge_text": "季云霞(andy.ji@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味自助南京六合龙湖店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1793329, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614503004, "person_in_charge_text": "徐同兵(mark.xu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/出品部（晋家门）/出品部（晋家门）2", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1200721, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614503277, "person_in_charge_text": "候波文(houbowen@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味南京新城市店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200771, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614503057, "person_in_charge_text": "刘徐(liuxu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京新世纪店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200756, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614502952, "person_in_charge_text": "阮玉强(ruanyuqiang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京鼓楼大观天地店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1740489, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614507257, "person_in_charge_text": "张秀霞(alina.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味自助合肥庐阳百盛店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200759, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506196, "person_in_charge_text": "彭京磊(sauron.peng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/章梅林区域/晋南京建邺万达店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200686, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506892, "person_in_charge_text": "郭润法(guorunfa@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/方成区域/花味自助江阴八佰伴店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200770, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507036, "person_in_charge_text": "孟繁博(devil.meng@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋南京新城市店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1200696, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506423, "person_in_charge_text": "李晓飞(lixiaofei@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味自助南京江北金象城店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200738, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614507056, "person_in_charge_text": "顾晓梅(daisy.gu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味自助盐城大丰吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 900609792, "name": "江苏汉资餐饮管理有限公司", "person_in_charge_id": 614502881, "person_in_charge_text": "宛继东(tony.wan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司", "custom_property": "82990e87-743f-4a3c-8f80-fa477b8e6504"
-},
-{"organization_id": 1997185, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": None, "person_in_charge_text": None, "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/品牌办（花味）/江苏花味总部", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200763, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614507228, "person_in_charge_text": "张秀秀(bella.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京九霄梦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1740386, "name": "雨花台区文华盛艳餐饮店（个体工商户）", "person_in_charge_id": 619996853, "person_in_charge_text": "许臣郎(xuchenlang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京雨花吾悦店", "custom_property": "a429e1cc-521c-4617-a740-425b907adbd5"
-},
-{"organization_id": 1200722, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505307, "person_in_charge_text": "张壮(zlys.zhang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/吴宋义区域/花味自助南京新街口大洋店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1736928, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614506207, "person_in_charge_text": "俞秀梅(rosie.yu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味自助合肥蜀山弘阳店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200779, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614502496, "person_in_charge_text": "张晓悦(zhangxiaoyue@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋扬州宝应吾悦店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-},
-{"organization_id": 1770070, "name": "合肥晋家门贰司餐饮合伙企业（有限合伙）", "person_in_charge_id": 614506681, "person_in_charge_text": "康锦福(kangjinfu@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/张良区域/晋合肥滨湖方圆荟店", "custom_property": "084efe2b-639a-4d61-af51-b38d54c1d35b"
-},
-{"organization_id": 1200713, "name": "秦淮区宛继文餐饮店（个体工商户）", "person_in_charge_id": 614506048, "person_in_charge_text": "景殿芳(una.jing@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助南京秦淮保利堂悦店", "custom_property": "b5d08d9c-2f53-4089-ab9c-2a61fea2663e"
-},
-{"organization_id": 1200685, "name": "花味（浙江）餐饮有限公司", "person_in_charge_id": 614502478, "person_in_charge_text": "张子安(zhangzian@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助嘉兴南湖万达店", "custom_property": "b2f24fa9-6333-42e9-a95b-8204f244b31a"
-},
-{"organization_id": 1200726, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505845, "person_in_charge_text": "温家敏(wenjiamin@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张伟区域/花味自助南京玄武商厦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200666, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614506652, "person_in_charge_text": "雷永玲(leiyongling@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张磊区域/花味自助常州武进吾悦店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200749, "name": "安徽晋家门餐饮管理有限公司", "person_in_charge_id": 625926842, "person_in_charge_text": "李艳(liyan5@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/章梅林区域/晋合肥蜀山砂之船店", "custom_property": "44d9ec1a-d427-491d-9295-333ac214b399"
-},
-{"organization_id": 1200782, "name": "盛艳（江苏）餐饮管理有限公司", "person_in_charge_id": 614506786, "person_in_charge_text": "胡桂娟(huguijuan@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（麻辣盛艳）/麻辣盛艳门店/周丽丽区域/麻南京缤润汇店", "custom_property": "da4a7e5d-265b-4107-bdb5-d03f4004a040"
-},
-{"organization_id": 1200732, "name": "花味（江苏）餐饮管理有限公司", "person_in_charge_id": 614505373, "person_in_charge_text": "周洁(zhoujie@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/张世谦区域/花味自助南京紫荆花漫里店", "custom_property": "2e83fa55-b9ee-48f3-9835-8d4ea835ee00"
-},
-{"organization_id": 1200736, "name": "安徽花味餐饮管理有限公司", "person_in_charge_id": 614506872, "person_in_charge_text": "王祥武(halo.wang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（花味）/花味门店/刘兰伟区域/花味自助芜湖镜湖苏宁店", "custom_property": "2919e7b5-2b06-4a05-a53c-548e5f49e304"
-},
-{"organization_id": 1200765, "name": "南京汉资餐饮管理有限公司", "person_in_charge_id": 614506916, "person_in_charge_text": "梁聚鹏(george.liang@jinjiamen.com)", "tree_path": "江苏汉资餐饮管理有限公司/营运（晋家门）/晋家门门店/耿嫚丽区域/晋南京浦口虹悦城店", "custom_property": "edd66b3e-d8fd-4390-a2df-dcb059e06e90"
-}]
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '人事行政部'
+  ], 'staffs': ['102947'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（支持）', '安全部'
+  ], 'staffs': ['106094'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（麻辣盛艳）', '出品部（麻辣盛艳）'
+  ], 'staffs': ['103540'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '财务部'
+  ], 'staffs': ['119112'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '供应中心', '计划部'
+  ], 'staffs': ['100346'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（花味）', '品牌办（花味）'
+  ], 'staffs': ['104348', '113944', '102851', '100052', '102410', '112269', '101045', '122362', '122779', '129829'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（花味）', '出品部（花味）', '出品（花味自助组）'
+  ], 'staffs': ['104032'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（麻辣盛艳）', '品牌办（麻辣盛艳）'
+  ], 'staffs': ['101916', '104377'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '总经办'
+  ], 'staffs': ['100001'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营建部'
+  ], 'staffs': ['100953'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（花味）', '培训部（花味）'
+  ], 'staffs': ['121117'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '采购部'
+  ], 'staffs': ['100353'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（晋家门）', '品牌办（晋家门）'
+  ], 'staffs': ['102760', '100128', '100156', '106172', '100044', '129918', '129732', '129636'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（晋家门）', '出品部（晋家门）', '出品部（晋家门）2'
+  ], 'staffs': ['104242'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（花味）', '出品部（花味）', '出品（花味组）'
+  ], 'staffs': ['119711'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '供应中心', '加工部'
+  ], 'staffs': ['100379'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '营运（晋家门）', '出 品部（晋家门）', '出品部（晋家门）1'
+  ], 'staffs': ['119712'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉资餐饮管理有限公司', '供应中心'
+  ], 'staffs': ['117855'
+  ]
+},
+{'pathType': 'name', 'path': ['江苏汉 资餐饮管理有限公司', '营运（支持）'
+  ], 'staffs': ['100339'
+  ]
+}

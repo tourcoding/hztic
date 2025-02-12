@@ -1,0 +1,45 @@
+{
+    "python": {
+        "include": [
+            "hztic/**/*.py",
+            "tests/**/*.py"
+        ],
+        "exclude": [
+            "**/__pycache__/**",
+            "**/.*",
+            "build/**",
+            "dist/**"
+        ]
+    },
+    "documentation": {
+        "include": [
+            "README.md",
+            "docs/**/*.md",
+            "**/*.rst"
+        ]
+    },
+    "configuration": {
+        "include": [
+            "pyproject.toml",
+            "setup.cfg",
+            "setup.py",
+            "requirements.txt",
+            ".env.example"
+        ]
+    },
+    "indexing": {
+        "maxFileSizeBytes": 1000000,
+        "excludePatterns": [
+            "**/data/**",
+            "**/logs/**",
+            "**/cache/**",
+            "**/download/**",
+            "**/venv/**",
+            "**/.git/**"
+        ]
+    },
+    "analysis": {
+        "skipLargeFiles": true,
+        "maxFileLines": 10000
+    }
+} 

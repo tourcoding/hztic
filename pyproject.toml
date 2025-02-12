@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hztic"
-version = "0.1.0"
+version = "1.0.0"
 description = "开放平台同步工具"
 authors = ["rhys.meng <rhys.meng@outlook.com>"]
 license = "GPL"
@@ -8,12 +8,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-flask = "^3.1.0"
-jieba = "^0.42.1"
 apscheduler = "^3.11.0"
-pandas = "^2.2.3"
-python-calamine = "^0.3.1"
 sqlalchemy = "^2.0.37"
+requests = "^2.32.3"
 
 
 [build-system]

@@ -28,7 +28,7 @@ def job():
         db_manager.initialize_employee_status()
         
         # 配置时间范围 - 获取最近一周的数据
-        end_time = (datetime.now() + timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)  # 获取当前日期
+        end_time = (datetime.now() + timedelta(days=0)).replace(hour=0, minute=0, second=0, microsecond=0)  # 获取当前日期
         start_time = end_time - timedelta(days=7)
 
         # 获取北森数据并存储
@@ -63,9 +63,9 @@ def job():
         )
         
         if result:
-            logger.debug("角色员工信息更新成功")
+            logger.debug("角色--经理级以上员工:员工信息更新成功")
         else:
-            logger.error("角色员工信息更新失败")
+            logger.error("角色--经理级以上员工:员工信息更新失败")
         
         logger.info("程序调度完成.")
     except Exception as e:

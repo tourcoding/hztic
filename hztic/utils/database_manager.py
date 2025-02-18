@@ -106,7 +106,7 @@ class DatabaseManager:
                 Employee.user_id == emp.user_id
             ).first()
             if existing_emp:
-                self.logger.debug("Field user_id: %s exists, updating...", emp.user_id)
+                #self.logger.debug("Field user_id: %s exists, updating...", emp.user_id)
                 existing_emp.id_number = emp.id_number
                 existing_emp.job_number = emp.job_number
                 existing_emp.mobile_phone = emp.mobile_phone
@@ -125,6 +125,12 @@ class DatabaseManager:
                 session.add(db_emp)
             session.commit()
             self.logger.debug("Save user_id: %s success.", emp.user_id)
+            
+            session.query(Employee).filter(
+                Employee.employee_status.notin_([2, 3])
+            ).delete(synchronize_session=False)
+            session.commit()
+            self.logger.debug("Deleted rows where employee_status is not 2 or 3.")
         except Exception as e:
             session.rollback()
             self.logger.error("Save user_id: %s failed: %s", emp.user_id, e)

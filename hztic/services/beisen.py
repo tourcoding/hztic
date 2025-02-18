@@ -133,7 +133,7 @@ class BeisenOpenAPI:
             raise ValueError(f"Time window exceeds {DEFAULT_TIME_WINDOW_DAYS} days. Please split the query into smaller segments.")
 
         payload = {
-            "empStatus": [2, 3, 6, 8],             # 1:待入职，2:试用，3:正式，4:调出，5:待调入，6:退休，8:离职，12:非正式
+            "empStatus": [2, 3],             # 1:待入职，2:试用，3:正式，4:调出，5:待调入，6:退休，8:离职，12:非正式
             "employType": [0,1,2],                 # 0:正式员工，1:外部人员，2:实习员工  
             "serviceType": [0],                    # 0:主职，1:兼职
             "timeWindowQueryType": 1,

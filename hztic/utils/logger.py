@@ -13,7 +13,7 @@ class Logger:
             cls._instance = super(Logger, cls).__new__(cls)
         return cls._instance
 
-    def __init__(self, name=None, log_dir=LOG_DIR, log_file="app.log", level=logging.DEBUG, max_bytes=10 * 1024 * 1024, backup_count=3):
+    def __init__(self, name=None, log_dir=LOG_DIR, log_file="app.log", level=logging.INFO, max_bytes=10 * 1024 * 1024, backup_count=3):
         """
         初始化日志配置
         :param name: 日志名称（可选，默认使用调用者的模块名）

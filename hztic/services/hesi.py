@@ -74,6 +74,7 @@ class HesiOpenApi:
         :return: 如果 API 调用成功.则返回 True; 否则返回 False。
         """
         url = f"{self.base_url}/api/openapi/v1.1/roledefs/${role_id}/staffs"
+        print(contents)
         params = {
             "accessToken": self.access_token,
             "staffBy": staff_by
